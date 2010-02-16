@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name        Nice alert
+// @name        Nice alert Fix
 // @namespace   http://userscripts.ru/js/nice-alert/
 // @include     *
 // @description Makes alert box suck less
-// @copyright   2008+, Nikita Vasilyev (http://userscripts.org/scripts/show/43780)
+// @copyright   2010, Vlad Emelyanov
 // @version     1.1
 // @licence     LGPL 3
 // ==/UserScript==
